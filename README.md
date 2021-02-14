@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="720" height="405" src="https://github.com/Collector0/BFSG/blob/main/img/BFSG.gif">
+  <img width="720" height="405" src="https://github.com/yezz123/BFSG/blob/main/img/BFSG.gif">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Dev-Yezz123-green?style"/>
    <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/Collector0/BFSG"/>
-   <img src="https://img.shields.io/github/stars/Collector0/BFSG"/>
-   <img src="https://img.shields.io/github/forks/Collector0/BFSG"/>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Collector0.Pretty-Readme">
+   <img src="https://img.shields.io/github/license/yezz123/BFSG"/>
+   <img src="https://img.shields.io/github/stars/yezz123/BFSG"/>
+   <img src="https://img.shields.io/github/forks/yezz123/BFSG"/>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=yezz123.Pretty-Readme">
    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </p>
 
