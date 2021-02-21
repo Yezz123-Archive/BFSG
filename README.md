@@ -57,15 +57,11 @@ Contributions are welcome! ❤ Please share any features, and add unit tests! Us
 
 ## Credits & Thanks 🏆
 
-- Contact the Dev :
 <p align="center">
-	<a href="https://www.instagram.com/froggy__19/">
-  <code><img src="https://img.shields.io/badge/Froggy__19%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></code>
-		</a>
-	<a href="https://www.twitch.tv/yassertahiri">
-  <code><img src="https://img.shields.io/badge/yassertahiri%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></code>
-	</a>
-	<a href="https://twitter.com/THyasser1">
-  <code><img src="https://img.shields.io/badge/THyasser1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></code>
-  </a>
-	
+    <a href="https://yassertahiri.medium.com/">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
+    <a href="https://twitter.com/THyasser1">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
+    <a href="https://discord.gg/crNvkTYPYG">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
