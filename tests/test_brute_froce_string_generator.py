@@ -25,7 +25,7 @@ class MyTest(unittest.TestCase):
 
     def test_brute_force_long_string(self):
         long_string = BruteForceStringGenerator(sequence='aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
-        assert (next(long_string) == 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab')
+        assert (next(long_string) == 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
 
     def test_brute_force_for_loop(self):
         loop_string = BruteForceStringGenerator(min_length=3)

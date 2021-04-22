@@ -17,7 +17,7 @@ BFSG is a web BruteForce String generator written in [Python](https://www.python
 
 ## How i can start using BFSG 😎
 
-- First check that you have a python version >3.4 or update it from [Python Update](https://www.python.org/downloads/)
+- First check that you have a python version 3.8.5 or update it from [Python Update](https://www.python.org/downloads/)
 
 ### Installation 🤘
 
@@ -47,6 +47,8 @@ pipenv shell
 ### Running the tests 🥱
 
 ```
+cd BFSG
+
 mypy BFSG.py
 
 pytest
